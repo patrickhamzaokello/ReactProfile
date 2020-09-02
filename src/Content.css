@@ -1,0 +1,129 @@
+.home {
+  background-color: #efe3d7;
+}
+
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.content__dark {
+  /* background-color: #f8afa0; */
+  background-color: #32333F;
+
+  display: flex;
+  justify-content: flex-end;
+  width: 950px;
+  height: 650px;
+  margin-right: 20px;
+}
+
+.content__dark > img {
+  width: 500px;
+  height: 450px;
+  margin-right: 50px;
+  object-fit: cover;
+  align-self: flex-end;
+}
+
+.content__brown {
+  background-color: #fbcc96;
+  margin-top: 200px;
+  width: 400px;
+  height: 450px;
+}
+
+.content__brown img {
+  width: 100%;
+  height: 100%;
+}
+
+
+.headingtext > span {
+    display: inline-block;
+}
+
+.devcolor {
+    color: lightblue;
+}
+
+.headingtext {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 129.69%;
+    letter-spacing: 0.03em;
+    margin: 20px 0;
+}
+
+.content__white {
+  position: absolute;
+  padding: 50px;
+  width: 600px;
+  margin-top: 100px;
+  margin-left: 300px;
+  background-color: white;
+  border: 8px solid #f6fbfd;
+
+}
+
+.content__white > h1 {
+  padding-top: 10px;
+}
+.content__white > p {
+  margin: 20px 0;
+  font-weight: 500;
+}
+.contactme__button {
+  padding: 10px 20px !important;
+  background-color: #000 !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+
+.arrowdownward {
+    margin: 0 auto !important;
+ 
+}
+
+.arrow {
+    font-size: 90px !important;
+    font-weight: 900 !important;
+}
+
+.homedescription {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 30px;
+    padding-bottom: 20px;
+}
+
+.homedescription > h2 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.homedescription > p {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.socialmedia {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 40px;
+    margin-top: 30px;
+}
+
+.socialicon {
+    font-size: 30px !important;
+    color: rebeccapurple !important;
+}
+.socialicon:hover {
+    color: white !important;
+}
