@@ -127,3 +127,9 @@
 .socialicon:hover {
     color: white !important;
 }
+
+.arrowdownward {
+  color: white !important;
+  font-size: 90px !important;
+  text-align: center;
+}
