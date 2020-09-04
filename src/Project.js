@@ -14,7 +14,7 @@ function Project() {
     <div className="projectpage">
       <div className="pageintroduction">
         <div className="projecthead">
-          <h1>My Skills 🙂 </h1>
+          <h1>My Skills</h1>
           <p>
           Through my studies, I've gained a solid understanding of computer
             science and web development concepts, and have dedicated a lot of my
@@ -101,16 +101,16 @@ function Project() {
           hours making and Designing and Planning all my Interfaces. From
           School Projects to Crazy Designs for Fun. It makes work easy as
           I visualize all my components both mobile and Web before any
-          Code is implemented. 'What else would I ever want to use! 😉 '
+          Code is implemented. 'What else would I ever want to use! '
         "
           linkpage="/designprocess"
         />
       </div>
       <div className="pageintroduction">
         <div className="projecthead">
-          <h1>Lets Build a Project Together 🙂</h1>
+          <h1>Lets Build a Project Together</h1>
           <p>
-          The Fun is building Something Together and Seeing it Work 😇  
+          The Fun is building Something Together and Seeing it Work
           </p>
         </div>
       </div>
