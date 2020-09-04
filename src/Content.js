@@ -5,6 +5,7 @@ import Profile from "./mkbhd2.png";
 import Plant from "./plant.png";
 import DownArrow from "@material-ui/icons/ArrowDownward";
 
+
 import Facebook from "@material-ui/icons/Facebook";
 import Twitter from "@material-ui/icons/Twitter";
 import Instagram from "@material-ui/icons/Instagram";
@@ -14,6 +15,7 @@ import Github from "@material-ui/icons/GitHub";
 function Content() {
   return (
     <div className="home">
+      
       <div className="content">
         <div className="content__brown">
           <img src={Plant} />
@@ -36,14 +38,14 @@ function Content() {
         <DownArrow className="arrow" />
       </div>
       <div className="homedescription">
-        <h2>
-          Current University Student enrolled in Computer Science, with 4 years
-          of experience working on different projects on Robotics, Math and
-          Statistics, Front end and Back end Web Development, Operating Systems
-        </h2>
+        <p>
+          I'm a 22-year old student at Mbarara University of Science and Technology currently pursueing a Bachelors in Computer Science
+        </p>
+        <p>
+          As I've grown as a developer, I have worked on several Web Platforms and Applications including alongside different Teams and Experts in the field of both Back End & Front End Web Development.
+        </p>
 
         <p>
-          {" "}
           Creator of pkasemer.com , Passionate Computer Science Student, LOVES
           DATA
         </p>

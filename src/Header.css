@@ -21,5 +21,16 @@ li {
     width: 700px;
 }
 
-.social__header {
+
+
+.social > a {
+    margin-right: 10px;
+}
+
+.socialmediaicon:hover {
+    color: purple !important;
+}
+
+.socialmediaicon {
+    color: rgb(143, 143, 143) !important;
 }
