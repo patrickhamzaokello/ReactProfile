@@ -9,7 +9,7 @@ function Header() {
     <div className="header">
       <h1>Pkasemer</h1>
 
-      <div className="menu">
+      {/* <div className="menu">
         <span>ABOUT</span>
         <span>PROJECT</span>
         <span>BLOG</span>
@@ -20,7 +20,7 @@ function Header() {
           <Twitter  />
           <Instagrm />
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

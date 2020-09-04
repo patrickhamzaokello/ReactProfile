@@ -5,6 +5,7 @@
 }
 
 
+
 .projectlisting {
   display: flex;
   justify-content: space-around;
@@ -20,8 +21,15 @@
   width: 100%;
 }
 
+.pageintroduction {
+  margin: 0 auto;
+  width: 95%;
+  margin-bottom: 60px;
+}
+
+
 .projecthead {
-  max-width: 700px;
+  max-width: 800px;
   margin-top: 100px;
 }
 
@@ -72,6 +80,18 @@ p {
 .project__button:hover {
   color: whitesmoke !important;
   background-color: black !important;
+}
+
+.skill__list {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px 0px 200px;
+}
+
+.skill__list > ul {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
 }
 
 

@@ -12,13 +12,47 @@ import ProjectPost from "./ProjectPost";
 function Project() {
   return (
     <div className="projectpage">
-      <div className="projecthead">
-        <h1>What I've been working on</h1>
-        <p>
-          I like to stay busy and always have a project in the works. Take a
-          look at some of the applications, articles, and companies I've
-          dedicated my time to.
-        </p>
+      <div className="pageintroduction">
+        <div className="projecthead">
+          <h1>My Skills 🙂 </h1>
+          <p>
+          Through my studies, I've gained a solid understanding of computer
+            science and web development concepts, and have dedicated a lot of my
+            free time to apply these concepts to real-world scenarios and
+            applications.
+          </p>
+        </div>
+        {/* <div className="skill__list">
+          <ul>
+            <li>Javascript ES6</li>
+
+            <li>HTML & CSS</li>
+
+            <li>React</li>
+
+            <li>SASS</li>
+          </ul>
+
+          <ul>
+            <li>React Native</li>
+
+            <li>Styled-Components</li>
+
+            <li>Git</li>
+
+            <li>PHP & SQL</li>
+          </ul>
+        </div> */}
+      </div>
+      <div className="pageintroduction">
+        <div className="projecthead">
+          <h1>What I've been working on</h1>
+          <p>
+            I like to stay busy and always have a project in the works. Take a
+            look at some of the applications, articles, and companies I've
+            dedicated my time to.
+          </p>
+        </div>
       </div>
 
       <div className="projectlisting">
@@ -71,6 +105,26 @@ function Project() {
         "
           linkpage="/designprocess"
         />
+      </div>
+      <div className="pageintroduction">
+        <div className="projecthead">
+          <h1>Lets Build a Project Together 🙂</h1>
+          <p>
+          The Fun is building Something Together and Seeing it Work 😇  
+          </p>
+        </div>
+      </div>
+      <div className="pageintroduction">
+        <div className="projecthead">
+          <h1>My Social Media Platforms</h1>
+          <p>I'm Alot Cooler On My Social Platforms</p>
+          <p>
+          Through my studies, I've gained a solid understanding of computer
+            science and web development concepts, and have dedicated a lot of my
+            free time to apply these concepts to real-world scenarios and
+            applications.
+          </p>
+        </div>
       </div>
     </div>
   );

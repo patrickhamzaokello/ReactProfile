@@ -118,9 +118,9 @@ function Project() {
           </div>
         </div>
         <div className="projecthead">
-          <h1>Lets Build a Project Together 🙂 </h1>
+          <h1> </h1>
           <p>
-          The Fun is building Something Together and Seeing it Work 😇  
+          
           </p>
         </div>
         <div className="projecthead">

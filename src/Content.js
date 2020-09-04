@@ -19,8 +19,6 @@ function Content() {
           <img src={Plant} />
         </div>
         <div className="content__white">
-          <h1></h1>
-
           <h1 className="headingtext">
           Hey Friend, I’m Patrick. <span>Full Stack <span className="devcolor">Developer,</span></span> <span>Computer Science Student</span>
           </h1>
