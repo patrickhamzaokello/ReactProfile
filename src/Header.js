@@ -14,6 +14,8 @@ function Header() {
         <img src={logo} width="34" alt="logo" />
       </div>
 
+      <hr />
+
       <div className="social">
         <a  href="https://github.com/patrickhamzaokello" target="_blank">
           <Github className="socialmediaicon" />

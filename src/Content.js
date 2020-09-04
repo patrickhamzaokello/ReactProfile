@@ -45,10 +45,7 @@ function Content() {
           As I've grown as a developer, I have worked on several Web Platforms and Applications including alongside different Teams and Experts in the field of both Back End & Front End Web Development.
         </p>
 
-        <p>
-          Creator of pkasemer.com , Passionate Computer Science Student, LOVES
-          DATA
-        </p>
+        
 
         <div className="socialmedia">
           <Github className="socialicon" />

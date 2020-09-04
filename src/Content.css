@@ -100,8 +100,7 @@
 }
 
 .homedescription > p {
-  text-align: center;
-  padding: 20px 0;
+  text-align: justify;
 }
 
 .socialmedia {
@@ -110,15 +109,15 @@
   justify-content: space-between;
   align-items: center;
   padding-bottom: 40px;
-  margin-top: 30px;
+  margin-top: 100px;
 }
 
 .socialicon {
   font-size: 30px !important;
-  color: rebeccapurple !important;
+  color: #32333f !important;
 }
 .socialicon:hover {
-  color: white !important;
+  color: rgb(190, 0, 73) !important;
 }
 
 .arrowdownward {
@@ -180,5 +179,10 @@
     margin: 0;
     object-fit: cover;
     /* padding: 20px; */
+  }
+
+  .homedescription > p {
+    text-align: justify;
+    padding: 0;
   }
 }
